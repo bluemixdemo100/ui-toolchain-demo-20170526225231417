@@ -101,7 +101,7 @@ function orderItem(itemID){
 	<div id="loading"><br>Loading...</div>
 	<a href="./autoLoadTest.html">Catalog Load Tester</a>
 	
-	<!-- -->
+	<!-- testing-->
 </body>
 </html>
 
